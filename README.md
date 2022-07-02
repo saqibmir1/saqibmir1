@@ -1,4 +1,4 @@
-I like to disect girls.
+I like to dissect girls.
 Did you know i'm utterly insane?
 
 <!---
