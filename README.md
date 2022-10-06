@@ -38,7 +38,7 @@
 <!-- Github Stats -->
 <p align="center">
   <samp>
-    <img src="https://komarev.com/ghpvc/?username=sourav2k&label=Profile+Views&color=grey" alt="thefallnn" /> 
+    <img src="https://komarev.com/ghpvc/?username=saqibmir1&label=Profile+Views&color=grey" alt="thefallnn" /> 
   </samp>
 </p>
 <p align="center">
@@ -46,12 +46,12 @@
     <details>
       <summary>My Profile Stats</summary>
         <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sourav2k&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saqibmir1k&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
     </details>
     <details> 
       <summary>My Most Used Languages</summary>
         <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav2k&layout=compact&hide_border=true&theme=tokyonight"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibmir1&layout=compact&hide_border=true&theme=tokyonight"/>
         <br>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     </details>
