@@ -27,7 +27,7 @@
 <!-- Contact Me -->
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/Ssourav2k">website</a>]
+    [<a href="https://saqibmir1.github.io">website</a>]
     [<a href="https://t.me/saqibmir0_o">Telegram</a>] <!-- we cannot change our username on matrix it seems -->
     [<a href="mailto:mirsaquib3737@gmail.com">e-mail</a>]
   </samp>
@@ -46,7 +46,7 @@
     <details>
       <summary>My Profile Stats</summary>
         <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saqibmir1k&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saqibmir1&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=tokyonight"/>
     </details>
     <details> 
       <summary>My Most Used Languages</summary>
