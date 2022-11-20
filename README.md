@@ -28,7 +28,7 @@
 <p align="center">
   <samp>
     [<a href="https://saqibmir1.github.io">website</a>]
-    [<a href="https://t.me/saqibmir0_o">Telegram</a>] <!-- we cannot change our username on matrix it seems -->
+    [<a href="https://t.me/sisyphusbutsus">Telegram</a>] <!-- we cannot change our username on matrix it seems -->
     [<a href="mailto:mirsaquib3737@gmail.com">e-mail</a>]
   </samp>
 </p>
@@ -59,16 +59,5 @@
 </p>
 
 <h2></h2><br>
-
-<!-- GPG Keys -->
-
-```sh
-curl -sS https://github.com/saqibmir1.gpg | gpg --import
-```
-```console
-C678 ECC9 8DDB 6263 B65E  496B 612D 4AB7 44BB 18B4
-```
-
-</details>
 
 
