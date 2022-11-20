@@ -3,7 +3,7 @@
   <p align="center">
     <samp>
       <b>
-        Hello There
+        Hello There!
       <br>
         I'm Saqib, a computer science student and a Linux enthusiast.
       </b>
