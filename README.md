@@ -8,7 +8,7 @@
         I'm Saqib, a computer science student and a Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&lines=Aight+i+say+uhhhh...;+++++++++++++++🎺+🎺+🏇+🏇+🎺+🎺">
+        <image src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&lines=I+showed+you+my+source+code+pls+respond;">
       <br>
       <b>
         ~ Saqib Mir ~
