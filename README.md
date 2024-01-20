@@ -29,7 +29,7 @@
   <samp>
     [<a href="https://saqibmir1.github.io">website</a>]
     [<a href="https://t.me/sisyphusbutsus">Telegram</a>] <!-- we cannot change our username on matrix it seems -->
-    [<a href="mailto:mirsaquib3737@gmail.com">e-mail</a>]
+    [<a href="mailto:saqibmdmir@gmail.com">e-mail</a>]
   </samp>
 </p>
 
