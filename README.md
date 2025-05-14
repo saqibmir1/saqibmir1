@@ -19,10 +19,11 @@
 
 <br>
 
+<!-- Centered play-button-style collapsible -->
 <div align="center">
 
 <details>
-  <summary><h3>▶️ Click here to reveal the fun stuff</h3></summary>
+  <summary><span style="font-size: 2.5rem;"></span></summary>
   <br>
 
   <!-- GitHub Snake Animation -->
