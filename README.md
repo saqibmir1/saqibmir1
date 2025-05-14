@@ -24,6 +24,8 @@
 
 <h2></h2><br>
 
+![GitHub Snake](https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/github-snake-dark.svg)
+
 <!-- Contact Me -->
 <p align="center">
   <samp>
