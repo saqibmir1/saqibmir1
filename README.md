@@ -8,7 +8,7 @@
         I'm Saqib, a computer science student and a Linux enthusiast.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&lines=Aight+i+say+uhhhh...;+++++++++++++++🎺+🎺+🏇+🏇+🎺+🎺">
+        <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&lines=Aight+i+say+uhhhh...;+++++++++++++++🎺+🎺+🏇+🏇+🎺+🎺">
       <br>
       <b>
         ~ Saqib Mir ~
@@ -19,23 +19,26 @@
 
 <br>
 
-<details align="center">
-<summary></summary>
+<div align="center">
 
-<h2></h2><br>
+<details>
+  <summary><h3>▶️ Click here to reveal the fun stuff</h3></summary>
+  <br>
 
-![GitHub Snake](https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/github-snake-dark.svg)
+  <!-- GitHub Snake Animation -->
+  <img src="https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake"/>
 
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="https://saqibmir1.github.io">website</a>]
-    [<a href="https://t.me/sisyphusbutsus">Telegram</a>] <!-- we cannot change our username on matrix it seems -->
-    [<a href="mailto:saqibmdmir@gmail.com">e-mail</a>]
-  </samp>
-</p>
+  <br><br>
 
-<h2></h2><br>
+  <!-- Contact Me -->
+  <p>
+    <samp>
+      [<a href="https://saqibmir1.github.io">website</a>]
+      [<a href="https://t.me/sisyphusbutsus">Telegram</a>]
+      [<a href="mailto:saqibmdmir@gmail.com">e-mail</a>]
+    </samp>
+  </p>
 
+</details>
 
-
+</div>
