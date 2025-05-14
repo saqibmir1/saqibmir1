@@ -27,7 +27,7 @@
   <br>
 
   <!-- GitHub Snake Animation -->
-  <img src="https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake"/>
+  <img src="https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/pacman.svg" alt="GitHub Snake"/>
 
   <br><br>
 
