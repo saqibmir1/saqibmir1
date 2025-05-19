@@ -37,6 +37,8 @@
       [<a href="https://saqibmir1.github.io">website</a>]
       [<a href="https://t.me/sisyphusbutsus">Telegram</a>]
       [<a href="mailto:saqibmdmir@gmail.com">e-mail</a>]
+      [<a href="https://saqibmir.site/contact/saqib.gpg">gpg</a>]
+      
     </samp>
   </p>
 
