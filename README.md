@@ -17,6 +17,17 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
+<!-- music widget start-->
+<div align="center">
+
+## 🎵 Now Playing
+
+<img src="https://saqibmir.site/now-playing.html" width="400" alt="Now Playing">
+
+</div>
+
+<!-- music widget end-->
+
 <br>
 
 <!-- Centered play-button-style collapsible -->
