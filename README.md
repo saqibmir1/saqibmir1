@@ -19,13 +19,9 @@
 
 <!-- music widget start-->
 <div align="center">
-
-## 🎵 Now Playing
-
-<img src="https://saqibmir.site/now-playing.html" width="400" alt="Now Playing">
-
+🎵 Now Playing
+[Now Playing](https://saqibmir1.github.io/now-playing/)
 </div>
-
 <!-- music widget end-->
 
 <br>
