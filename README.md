@@ -19,8 +19,8 @@
 
 <!-- music widget start-->
 <div align="center">
-🎵 Now Playing
-[Now Playing](https://saqibmir1.github.io/now-playing/)
+<p>🎵 Now Playing</p>
+<a href="https://saqibmir1.github.io/now-playing/">Now Playing</a>
 </div>
 <!-- music widget end-->
 
