@@ -19,7 +19,6 @@
 
 <!-- music widget start-->
 <div align="center">
-<p>🎵 Now Playing</p>
 <a href="https://saqibmir1.github.io/now-playing/">Now Playing</a>
 </div>
 <!-- music widget end-->
