@@ -19,7 +19,7 @@
 
 <!-- music widget start-->
 <div align="center">
-<a href="https://saqibmir1.github.io/now-playing/">Now Playing</a>
+<a href="https://saqibmir1.github.io/scroblite/now-playing-iframe.html">Now Playing</a>
 </div>
 <!-- music widget end-->
 
