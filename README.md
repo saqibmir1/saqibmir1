@@ -17,6 +17,8 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <p align="center">
+  <b>🎵 Now Playing</b>
+  <br>
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg" alt="Tame Impala - Let It Happen"/>
 </p>
 <br>
