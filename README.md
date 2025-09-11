@@ -6,7 +6,7 @@
       I'm Saqib, a computer science student and a Linux enthusiast.
     </b>
     <br>
-      <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&lines=Aight+i+say+uhhhh...;+++++++++++++++🎺+🎺+🏇+🏇+🎺+🎺" alt="Typing SVG animation">
+      <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&lines=Who+made+that+mess...;I+made+the+mess%3F" alt="Typing SVG animation: Who made that mess... / I made the mess?">
     <br>
     <b>
       ~ Saqib Mir ~
