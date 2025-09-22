@@ -27,7 +27,7 @@
   <summary><span style="font-size: 2.5rem;"></span></summary>
   <br>
 
-  <img src="https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/pacman.svg" alt="GitHub Snake"/>
+  <img src="https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/github-user-contribution.svg" alt="GitHub Snake"/>
 
   <br><br>
 
