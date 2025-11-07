@@ -6,7 +6,8 @@
       I'm Saqib (I use Arch btw)
     </b>
     <br>
-   <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&duration=800&pause=2000&lines=Who+made+that+mess...;I+made+the+mess%3F" alt="Typing SVG">
+   <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&duration=800&pause=2000&lines=Who+made+the+mess%3F;You+did+king!!!;I+made+the+mess%3F
+" alt="Typing SVG">
     <br>
     <b>
       ~ Saqib Mir ~
